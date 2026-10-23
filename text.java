@@ -1,6 +1,5 @@
-import java.util.*
-  public class text{
-    public static void main(String[]args){
-  System.out.println("hello");
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
-  }
